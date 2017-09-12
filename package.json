@@ -1,0 +1,14 @@
+{
+  "name": "static-server",
+  "version": "1.0.0",
+  "description": "node静态服务器",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "静态服务器"
+  ],
+  "author": "chris",
+  "license": "MIT"
+}
